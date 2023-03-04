@@ -1,5 +1,5 @@
-# ECE-3301-Intro-to-Microcontrollers
-MICROCONTROLLER LAB USING PIC18F2525
+# ECE-3301-Intro-to-Microcontrollers\n
+MICROCONTROLLER LAB USING PIC18F2525\n
 Software: MPLAB X IDE v4.20
 
 --------------------------------------------------------------------
